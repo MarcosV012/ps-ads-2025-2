@@ -26,7 +26,7 @@ export default function FooterBar() {
         }}
       >
         Desenvolvido e mantido com <LocalCafeIcon fontSize="small" /> por <a 
-        href="mailto:marcos.pavane@fatec.sp.gov.br">Marcos Vinícius de Castro Pavane</a>
+        href="mailto:marcos.pavane@fatec.sp.gov.br">Marcos Vinícius de Castro</a>
       </Typography>
     </Box>
   );

@@ -26,7 +26,7 @@ export default function FooterBar() {
         }}
       >
         Desenvolvido e mantido com <LocalCafeIcon fontSize="small" /> por <a 
-        href="mailto:professor@faustocintra.com.br">Prof. Fausto G. Cintra</a>
+        href="mailto:marcos.pavane@fatec.sp.gov.br">Marcos Vinícius de Castro Pavane</a>
       </Typography>
     </Box>
   );
